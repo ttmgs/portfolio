@@ -77,9 +77,7 @@ function About() {
         <div class="profile">
           <p style={{ fontFamily: "monospace", fontSize: "20px" }}>
             <strong>
-            Came into this world not knowing the answers, but trying to make a difference in peoples lives. This is my objective
-and my life goal. My mission is to teach people and help them with basic fundamentals of human development. I believe that everyone deserves an opportunity. We are
-the ones that create our own reality, and we have so much power to do so {" "}
+         One of my best traits is my willingness to learn and adapt to any environment. Aside from my programming capabilities, I am a hard working individual
             </strong>
           </p>
           
